@@ -1,5 +1,6 @@
 # The-Hero-Voice-Assistant
 A Personal Assistant that can perform various tasks by listening to your commands and to make your life easier
+To start the application install the required packages and run the "GUIASSISTANT.py" file
 
 # Capabilities
 1. Game (eg, Rock Paper Scissor with GUI)  
